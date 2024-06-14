@@ -1,5 +1,1 @@
-
-prom/alertmanager:v0.21.0
-kubesphere/prometheus-config-reloader:v0.43.2
 csiplugin/snapshot-controller:v4.0.0
-kubesphere/kubectl:v1.22.0
