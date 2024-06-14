@@ -1,1 +1,1 @@
-csiplugin/snapshot-controller:v4.0.0
+prom/prometheus:v2.26.0
