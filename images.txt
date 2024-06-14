@@ -1,4 +1,3 @@
-nginx
 kubesphere/ks-installer:v3.2.0
 phpdockerio/php74-fpm:latest
 
