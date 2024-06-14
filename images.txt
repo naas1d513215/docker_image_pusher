@@ -1,3 +1,5 @@
-
-kubesphere/notification-manager:v1.4.0
-kubesphere/notification-tenant-sidecar:v3.2.0
+snapshot-controller:v4.0.0
+prom/alertmanager:v0.21.0
+kubesphere/prometheus-config-reloader:v0.43.2
+csiplugin/snapshot-controller:v4.0.0
+kubesphere/kubectl:v1.22.0
