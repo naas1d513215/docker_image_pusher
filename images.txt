@@ -1,1 +1,1 @@
-phpdockerio/php:8.3-fpm
+phpdockerio/php74-fpm:latest
